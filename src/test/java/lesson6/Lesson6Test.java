@@ -32,7 +32,7 @@ public class Lesson6Test {
 //
         new MainPage(driver)
                 .clickSignInButton()
-                .login("tea.egorova@gmail.com", "05031998Xd");
+                .login("korobeynikova2103@mail.ru", "75395155Xx");
         Thread.sleep(12000);
     }
 
